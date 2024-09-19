@@ -18,6 +18,12 @@ body {
     box-sizing: border-box;
     margin-bottom: 10px;
 }
+.highlight-1 {
+    background-color: rgb(236, 168, 179);
+    width: 180px;
+    height: 50%;
+    margin-top: 50%;
+}
 
 .yellow-box {
     background-color: yellow;
@@ -27,11 +33,22 @@ body {
     box-sizing: border-box;
     margin-bottom: 10px;
 }
-
+.highlight-2 {
+    background-color: rgb(247, 247, 182);
+    width: 50%;
+    height: 50%;
+    margin: 50%;
+}
 .green-box {
     background-color: green;
     width: 220px;
     height: 220px;
     border: 20px solid rgb(50, 86, 50);
     box-sizing: border-box;
+}
+.highlight-3 {
+    background-color: rgb(146, 247, 165);
+    width: 50%;
+    height: 50%;
+    margin: 50% 0px;
 }
