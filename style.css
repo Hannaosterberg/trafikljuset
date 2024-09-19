@@ -1,7 +1,6 @@
 body {
     background-color: grey;
 }
-
 .container {
     width: 260px;
     height: 720px;
@@ -24,7 +23,6 @@ body {
     height: 50%;
     margin-top: 50%;
 }
-
 .yellow-box {
     background-color: yellow;
     width: 220px;
